@@ -1,0 +1,14 @@
+streamlit
+openai
+langchain
+langchain_nvidia_ai_endpoints
+langchain_community
+scikit-learn
+matplotlib
+numpy
+pypdf2
+umap-learn
+faiss-cpu
+python-dotenv
+watchdog
+
